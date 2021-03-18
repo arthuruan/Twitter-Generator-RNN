@@ -2,7 +2,7 @@
     Who said it?
 </h1>
 
-<h5 align="center">Você pode acessar clicando <a href="https://whosaidthis.herokuapp.com/">aqui</a> </h5>
+<h4 align="center">Você pode acessar clicando <a href="https://whosaidthis.herokuapp.com/">aqui</a> </h4>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,15 +20,15 @@
 <br>
 
 <p align="center">
-  <img alt="Who said it?" src=".github/WhoSaidIt.png" width="750px" height="500px">
+  <img alt="Who said it?" src="assets/WhoSaidIt.png" width="750px" height="500px">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Jupyter Notebook](https://colab.research.google.com/)
+- [Python](https://www.python.org/)
 
 ## 💻 Projeto
 
