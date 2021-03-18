@@ -2,7 +2,7 @@
     Who said it?
 </h1>
 
-<h2>Você pode acessar clicando <a href="whosaidthis.herokuapp.com">aqui</a> </h2>
+<h5 align="center">Você pode acessar clicando <a href="https://whosaidthis.herokuapp.com/">aqui</a> </h5>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
